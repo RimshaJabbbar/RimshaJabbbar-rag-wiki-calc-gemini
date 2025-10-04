@@ -1,0 +1,8 @@
+
+streamlit
+wikipedia
+faiss-cpu
+sentence-transformers
+transformers
+torch
+google-generativeai
